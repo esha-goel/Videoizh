@@ -1,9 +1,15 @@
 # Videoizh
 
-It is a Group Video Chat app with rooms.## Demo
+It is a Group Video Chat app with rooms.
+
+
+## Demo
 
 Website : https://video-chat-app-374e7.web.app/
+
 Video : https://youtu.be/K2Zc0JLxCxs
+
+
 ## Screenshots
 
 #### Landing Page
@@ -22,6 +28,7 @@ Video : https://youtu.be/K2Zc0JLxCxs
 ![image](https://user-images.githubusercontent.com/73998252/125513906-0ee55830-84e3-485c-af0c-deb6784c5e83.png)
 
 ![image](https://user-images.githubusercontent.com/73998252/125513752-1e9a3e4b-4ab8-4443-a664-d404a22c2001.png)
+
 
 ## Tech Stack
 
