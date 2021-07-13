@@ -1,0 +1,6 @@
+[submodule "video-chat"]
+	path = video-chat
+	url = https://github.com/esha-goel/video-chat
+[submodule "video-chat-app"]
+	path = video-chat-app
+	url = https://github.com/esha-goel/video-chat-app
